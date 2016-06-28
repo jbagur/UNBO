@@ -1,0 +1,15 @@
+Listado de materiales que se utilizaron para el prototipo funcional:
+  1. 2 Microcontroladores ATmega328p
+  2. 2 Cristal 16MHz HC- 49S
+  3. 2 Pulsador de cuatro pines 6x6mm
+  4. 2 pulsador de cuatro pines 12x12mm de colores
+  5. 3 LM7805 (reguladores de voltaje 5V)
+  6. 2 Modulos de radio frecuencia de 315MHz, Modulacion ASK
+  7. 2 capacitadores de 10 microfaradios
+  8. 3 led de colores
+  9. Resistencias de 10k y 320 ohms
+  10. 1 Arduino UNO
+  11. Protoboard
+  12. 2 Baterias de 9V
+  13. 2 Porta Baterias de 9V
+  14. Cable para protoboard
