@@ -1,9 +1,15 @@
-from Tkinter import *
+#Importamos librerias
 import serial
+#inicia el programa
 print("Sistema iniciado")
+#puerto de donde obtendremos la data
 arduinodata = serial.Serial('COM3',9600)
+#variables globales, contadores
 a = 0
 b = 0
+#Dependiendo el tipo de cadena que reciba el puerto, dependera que mensaje se mostrara en pantalla
+#En caso alguno de los dos contadores pase de 10 este lanzara un mensaje de alerta
+#imprimira en pantalla
 while (1==1):
     myData = (arduinodata.readline().strip())
     if myData == 'Received: id=001$status=1':
