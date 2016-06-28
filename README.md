@@ -7,5 +7,5 @@ se trabajo con el lenguaje de programacion de python y el software de arduino, o
     a)Pyserial
     b)Tkinter
   3.Software de Arduino
-  4.Librerias que deben estar instaldas en arduino VirtualWire
+  4.Librerias que deben estar instaldas en arduino: 1. VirtualWire
   
